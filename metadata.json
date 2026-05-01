@@ -1,0 +1,10 @@
+{
+  "name": "Deep Research Report API",
+  "description": "A paid research API powered by x402 payments. Returns structured research reports using free web sources and Groq AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Research",
+    "x402 Payments",
+    "Web Scraping"
+  ]
+}
